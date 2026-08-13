@@ -1,0 +1,6 @@
+{
+  "name": "ATS CV Optimizer",
+  "description": "Optimize resumes against job descriptions using ATS keyword and gap analysis, rewrite content truthfully, and export professional DOCX and PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
